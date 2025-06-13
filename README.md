@@ -1,3 +1,5 @@
+İsmayil Öztürk Ögr No: 132130122 Bursa Uludağ Üniversitesi
+
 **COVID-19 Hastaneye Yatış Tahmini - Python**
 
 Bu proje, COVID-19 hastalarına ait verileri kullanarak bir kişinin hastaneye yatıp yatmayacağını tahmin etmeyi amaçlar. Modelleme süreci Python programlama dili ve scikit-learn kütüphanesi kullanılarak gerçekleştirilmiştir.
