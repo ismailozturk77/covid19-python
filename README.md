@@ -34,5 +34,5 @@ pip install pandas scikit-learn
 python main.py
 ```
 
-Detaylı açıklama için rapor dosyasına başvurabilirsiniz: https://docs.google.com/document/d/1vkd0lh7qb8zlBHswxsR9Kmu4Oe5tok9i/edit?usp=sharing&ouid=111731595050658472244&rtpof=true&sd=true
+Detaylı açıklama için rapor dosyasına başvurabilirsiniz: https://docs.google.com/document/d/1cvHQOvxrJAGgvUqZtJ3TkvbsZySYxSa_/edit?usp=sharing&ouid=111731595050658472244&rtpof=true&sd=true
 
